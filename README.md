@@ -1,7 +1,3 @@
 # RentalProject-SQL-Queries
 ### Practice Project Introduction
-A movie rental company used to have stores around the world.
-Facing competition from streaming services increasing in popularity,
-the rental company's management team is planning to use its existing movie licenses to
-launch an online video rental service in order to stay competitive.
-The rental company needs help with the launch strategy for their new online video service.
+A movie rental company used to have stores around the world. Facing competition from streaming services increasing in popularity, the rental company's management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. The rental company needs help with the launch strategy for their new online video service.
