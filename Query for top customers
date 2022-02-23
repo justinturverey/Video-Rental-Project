@@ -19,4 +19,4 @@ WHERE city IN
 'So Leopoldo')
 GROUP BY customer.customer_id, first_name, last_name, country, city
 ORDER BY total_amount_paid DESC
-LIMIT 5
+LIMIT 5;
