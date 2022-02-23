@@ -10,4 +10,4 @@ SQL
 Tableau  
   
 ### Additonal Resources
-[Project Visuals](https://public.tableau.com/app/profile/justin.turverey/viz/Book1_16418449086550/Top10Countries)
+[Project Visualizations](https://public.tableau.com/app/profile/justin.turverey/viz/Book1_16418449086550/Top10Countries)
