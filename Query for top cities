@@ -18,4 +18,4 @@ WHERE country IN
 'Indonesia')
 GROUP BY city, country
 ORDER BY total_customers DESC
-LIMIT 10
+LIMIT 10;
